@@ -22,6 +22,12 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<br>
+<a href="https://github.com/Muhammad-Bilal-MB">
+   <img src="https://komarev.com/ghpvc/?&style=for-the-badge&username=Muhammad-Bilal-MB">
+</a>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

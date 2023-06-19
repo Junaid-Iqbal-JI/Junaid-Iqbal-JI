@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **junaidiqbalofficial19@gmail.com**
 
-- 📄 Know about my experiences [https://ilamguru.com/](https://ilamguru.com/)
+- 📄 Here is my Portfolio [https://ilamguru.com/](https://ilamguru.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

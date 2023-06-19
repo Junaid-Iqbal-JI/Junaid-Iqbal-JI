@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Junaid Iqbal</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<img width="1401" alt="Github Cover" src="https://github.com/Junaid-Iqbal-JI/Junaid-Iqbal-JI-/blob/main/JUNAID%20IQBAL.png">
+<br>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=firacode&color=ffb347&size=30&duration=3000&center=true&vCenter=true&lines=Hi+there!;I+am+Junaid+Iqbal;%25Machine+Learning+Engineer;AI+Enthusiast;Python+Expert)](https://git.io/typing-svg)
+
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-iqbal-ji&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-iqbal-ji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid-iqbal-ji" alt="junaid-iqbal-ji" /></a> </p>

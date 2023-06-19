@@ -23,12 +23,13 @@
 - 💬 Ask me about **Machine Learning, Data Science, Data Engineering and React Native**
 
 - 📫 How to reach me **junaidiqbalofficial19@gmail.com**
+- ☕️  (Mocha || Latte) && Me 
+- ❤️  In love with Open Source
+- ⚡  Fun fact: I spend 50$ on every release of UFC. 
+- 🤔  Pronouns: He / Him
 
 - 📄 Here is my Portfolio [https://ilamguru.com/](https://ilamguru.com/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

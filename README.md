@@ -19,12 +19,11 @@
 
 - 📄 Here is my Portfolio [https://ilamguru.com/](https://ilamguru.com/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Profile Viewa
+
 <br>
-<a href="https://github.com/Muhammad-Bilal-MB">
-   <img src="https://komarev.com/ghpvc/?&style=for-the-badge&username=Muhammad-Bilal-MB">
+<a href="https://github.com/Junaid-Iqbal-JI">
+   <img src="https://komarev.com/ghpvc/?&style=for-the-badge&username=Junaid-Iqbal-JI">
 </a>
 
 <br>

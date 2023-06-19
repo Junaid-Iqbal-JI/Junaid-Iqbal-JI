@@ -1,90 +1,40 @@
-<h1 align="center"> Hola! I am <i>Muhammad Bilal</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> Being Real, Loving Artificial Intelligence </h3>
-<img width="1401" alt="Github Cover" src="https://user-images.githubusercontent.com/69968468/150587655-2a6960f3-accc-4df3-bede-5ed4384cfc48.png">
-<br>
+<h1 align="center">Hi 👋, I'm Junaid Iqbal</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=ffb347&size=30&duration=3000&center=true&vCenter=true&lines=Hi+there!;I+am+Muhammad+Bilal;GDSC+Lead+%7C+MTA;Python+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-iqbal-ji&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-iqbal-ji" /> </p>
 
-</div>
-  
-<br>
-<p align="center">
-  <a href="https://github.com/Muhammad-Bilal-MB?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Muhammad-Bilal-MB?color=green&label=GITHUB&logo=Github&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="http://twitter.com/M_Bilal_MB">
-    <img alt="Muhammad Bilal MB | LinkedIN"  src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadbilal-mb/" target="_blank">
-    <img alt="muhammadbilal-mb | LinkedIN"  src="https://img.shields.io/badge/linkedin-%23FFFFFF.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />
-  </a>
-  <a href="https://stackoverflow.com/users/15664690/muhammad-bilal" target="_blank">
-    <img alt="Muhammad Bilal | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/MuhammadBilalAwanMB" target="_blank">
-    <img  alt="@Muhammad Bilal | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/m.bilal.awaan" target="_blank">
-    <img alt="Muhammad Bilal | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@muhammadbilal-mb" target="_blank">
-    <img alt="@Muhammad Bilal | Medium"  src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid-iqbal-ji" alt="junaid-iqbal-ji" /></a> </p>
+
+- 🔭 I’m currently working on [Data Structure in Python](https://github.com/Junaid-Iqbal-JI/Python-Code)
+
+- 🌱 I’m currently learning **React Native, Asp .Net**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Junaid-Iqbal-JI](https://github.com/Junaid-Iqbal-JI)
+
+- 📝 I regularly write articles on [https://ilamguru.com/](https://ilamguru.com/)
+
+- 💬 Ask me about **Machine Learning, Data Science, Data Engineering and React Native**
+
+- 📫 How to reach me **junaidiqbalofficial19@gmail.com**
+
+- 📄 Know about my experiences [https://ilamguru.com/](https://ilamguru.com/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/junaid iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid iqbal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/junaid iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="junaid iqbal" height="30" width="40" /></a>
+<a href="https://kaggle.com/junaid9991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="junaid9991" height="30" width="40" /></a>
+<a href="https://medium.com/@junaid-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@junaid-iqbal" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-I am living in Attock, Pakistan. Currently pursuing my degree in Bachelors of Computer science at Comsats University Islamabad, Attock Campus. Interested in Artificial Intelligence and Deep Learning (more specifically). I've been selected as [Google Developer Student Clubs Lead](https://developers.google.com/community/dsc/leads) for the batch of 2021-22. I've also been recognised as **Microsoft Technology Associate (MTA)** in python programming. I am a passionate football lover and I love to play FIFA. 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Junaid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Junaid" /></a><a href="https://ko-fi.com/kO -FI"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kO -FI" /></a></p><br><br>
 
-<img align="right" src="https://user-images.githubusercontent.com/69968468/150634141-7df07d74-0255-45b7-8bb8-3f95feed548e.png" witdh=300px height=300px/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid-iqbal-ji&show_icons=true&locale=en&layout=compact" alt="junaid-iqbal-ji" /></p>
 
-- 🎓  A Computer Science student.
-- 🔭  I’m currently working at **Dlision as a Junior AI Developer**.
-- 📈  **GDSC Lead** at Google Developer Student Club COMSATS University, Attock Campus.
-- ⚙️  I love to code in **Python**.
-- 🗣  **Microsoft Technology Associate (MTA)** in python programming. 
-- 🌱  Learning more about the world of sound and computer vision in AI. 
-- 🎨  I like vector art so trying to be good at it. 
-- ☕️  (Mocha || Latte) && Me 
-- ❤️  In love with Open Source
-- ⚡  Fun fact: I spend 80$ on every new FIFA release. 
-- 📫  How to reach me: **bilalmb1999@gmail.com**
-- 🤔  Pronouns: He / Him
-<br>
-<a href="https://github.com/Muhammad-Bilal-MB">
-   <img src="https://komarev.com/ghpvc/?&style=for-the-badge&username=Muhammad-Bilal-MB">
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaid-iqbal-ji&show_icons=true&locale=en" alt="junaid-iqbal-ji" /></p>
 
-<br>
-
-<h2> Languages and Tools </h2>
-<div class="tools" display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=40px height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=40px height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=40px height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width=40px height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=40px height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=40px height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40px height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=40px height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
-</div>
-<hr>
-  
-<img src="https://raw.githubusercontent.com/Muhammad-Bilal-MB/Muhammad-Bilal-MB/output/github-contribution-grid-snake.svg" width=100%/>
-
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-MB&show_icons=true&theme=tokyonight&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Bilal-MB&theme=gotham&fire=C77800&ring=DD910B&background=1F222E" />
-</p>
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-MB&theme=react-dark&bg_color=1F222E" />
-
-[![@muhammadbilal1999's Holopin board](https://holopin.me/muhammadbilal1999)](https://holopin.io/@muhammadbilal1999)
-
-<img src="https://user-images.githubusercontent.com/69968468/150633827-668e5d7c-bff2-49af-a7a3-e3f6748eaf01.gif" width=100% />
-
-**Show some love by starring some of the repositories ❤️**
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-iqbal-ji&" alt="junaid-iqbal-ji" /></p>

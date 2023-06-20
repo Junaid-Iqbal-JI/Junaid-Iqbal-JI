@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junaid Iqbal</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img width="1401" alt="Github Cover" src="https://github.com/Junaid-Iqbal-JI/Junaid-Iqbal-JI-/blob/main/JUNAID%20IQBAL.png">
+<img width="1401" alt="Github Cover" src="https://github.com/Junaid-Iqbal-JI/Junaid-Iqbal-JI/blob/main/JUNAID%20IQBAL%20(1)%20(1).png">
 <br>
 
 <div align="center">
